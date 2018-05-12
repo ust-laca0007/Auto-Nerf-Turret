@@ -41,7 +41,7 @@ public class Turret
 	}
 
 	public static void main(String[] a) {
-		//System.out.println("UP=SHOOT, MID=RESET, DOWN=OFF");
+
 		int button = 2; //Button.waitForAnyPress();
 		// center = 2
 		// up = 1
